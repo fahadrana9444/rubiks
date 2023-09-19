@@ -1,4 +1,4 @@
-import AdminTable from "@/components/Admintable";
+import AdminTable from "@/components/AdminTable";
 import Tiles from "@/components/Tiles";
 import React from "react";
 
